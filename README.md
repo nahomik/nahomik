@@ -15,28 +15,40 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**💼 Current Role**  
-DevOps Engineer @ Commercial Bank of Ethiopia
+### 💼 Current Role
+```yaml
+Position: DevOps Engineer
+Company: Commercial Bank of Ethiopia
+Focus: Cloud Infrastructure & Automation
+```
 
-**🎯 Open For**  
-Freelance Projects | Collaborations | Consulting
+### 🎯 Open For
+<img src="https://img.shields.io/badge/Freelance-Available-00ADB5?style=flat-square&logo=freelancer&logoColor=white" />
+<img src="https://img.shields.io/badge/Collaboration-Open-4CAF50?style=flat-square&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Consulting-Ready-FF6B6B?style=flat-square&logo=lighthouse&logoColor=white" />
 
-**📧 Contact**  
-nahomendalkachew2002@gmail.com
+### 📧 Contact
+[![Email](https://img.shields.io/badge/Email-nahomendalkachew2002@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nahomendalkachew2002@gmail.com)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🛠️ Expertise**  
-Full-Stack Development  
-DevOps & Cloud Architecture  
-CI/CD & Infrastructure Automation
+### 🛠️ Expertise
+```typescript
+const skills = {
+  development: "Full-Stack Web Apps",
+  devops: "CI/CD & Automation",
+  cloud: "AWS, Azure & Infrastructure",
+  containers: "Docker & Kubernetes"
+}
+```
 
-**🌱 Currently Exploring**  
-Cloud-Native Technologies  
-Kubernetes & Microservices
+### 🌱 Currently Exploring
+![Cloud Native](https://img.shields.io/badge/Cloud_Native-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=microservices&logoColor=white)
 
 </td>
 </tr>
