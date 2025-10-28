@@ -13,13 +13,34 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working at **Commercial Bank of Ethiopia (CBE) as DevOps Engineer**
-- 💼 **Available for Freelance** - Full-Stack Development, DevOps Consulting, Cloud Architecture
-- 🌱 I'm currently learning **modern frameworks, cloud technologies, and DevOps best practices**
-- 👯 I'm looking to collaborate on **software development and DevOps projects**
-- 💬 Ask me about **JavaScript (ES6), React.js, Node.js, Express.js, REST APIs, SQL/PostgreSQL, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform**
-- 📫 How to reach me: **nahomendalkachew2002@gmail.com**
-- ⚡ Fun fact: **Email existed before the web!**
+<table>
+<tr>
+<td width="50%">
+
+**💼 Current Role**  
+DevOps Engineer @ Commercial Bank of Ethiopia
+
+**🎯 Open For**  
+Freelance Projects | Collaborations | Consulting
+
+**📧 Contact**  
+nahomendalkachew2002@gmail.com
+
+</td>
+<td width="50%">
+
+**🛠️ Expertise**  
+Full-Stack Development  
+DevOps & Cloud Architecture  
+CI/CD & Infrastructure Automation
+
+**🌱 Currently Exploring**  
+Cloud-Native Technologies  
+Kubernetes & Microservices
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -205,28 +226,6 @@ Check out my [GitHub repositories](https://github.com/nahomik?tab=repositories) 
 ## 📄 Resume
 
 📥 [Download My CV](https://nahomendalkachew.netlify.app/assets/Nahom_Endalkachew_cv.pdf)
-
----
-
-## 💡 Additional Recommendations
-
-### 🎓 **Certifications to Consider**
-- AWS Certified Solutions Architect
-- Certified Kubernetes Administrator (CKA)
-- HashiCorp Certified: Terraform Associate
-
-### 📚 **Skills to Highlight**
-- Microservices Architecture
-- API Gateway & Load Balancing
-- Security Best Practices (OAuth, JWT)
-- Agile/Scrum Methodologies
-
-### 🌍 **Freelance Platforms**
-Consider joining:
-- [Upwork](https://www.upwork.com)
-- [Toptal](https://www.toptal.com)
-- [Fiverr](https://www.fiverr.com)
-- [LinkedIn ProFinder](https://www.linkedin.com/profinder)
 
 ---
 
