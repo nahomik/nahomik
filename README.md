@@ -156,8 +156,40 @@ I'm available for freelance work! Here's what I can help you with:
 - Features: Real-time messaging, search/filter, user profiles, book reviews
 - Deployed with modern DevOps practices
 
-### 🚀 More Projects Coming Soon!
-Check out my [Portfolio](https://nahomendalkachew.netlify.app/) for more projects
+### 🌐 [ICP DKeeper](https://github.com/nahomik/ICP-dkeeper)
+**Decentralized Notes App on Internet Computer**
+- Built with React frontend and Motoko canisters on ICP blockchain
+- **Tech Stack:** React, Motoko, Internet Computer Protocol
+- Fully decentralized note-taking application
+
+### 🎮 [Totoro Game](https://github.com/nahomik/Totoro-Game) ⭐ 2 Stars
+**Interactive Browser Game**
+- Fun browser-based game with JavaScript
+- **Tech Stack:** JavaScript, HTML5, CSS3
+- Engaging gameplay mechanics
+
+### 🎨 [Digital Art Store](https://github.com/nahomik/Digital-art-store) ⭐ 2 Stars
+**E-commerce Platform for Digital Art**
+- Full-featured online store for digital artwork
+- **Tech Stack:** JavaScript, Node.js
+- Shopping cart, payment integration, user authentication
+
+### 💼 [Portfolio Website](https://github.com/nahomik/Portfolio) ⭐ 1 Star
+**Personal Portfolio**
+- Modern portfolio showcasing projects and skills
+- **Tech Stack:** Vue.js
+- Responsive design, smooth animations
+- **Live:** [nahomendalkachew.netlify.app](https://nahomendalkachew.netlify.app/)
+
+### 📖 [80 Ahadu](https://github.com/nahomik/80-ahadu) ⭐ 1 Star
+**Ethiopian Orthodox Bible App**
+- Digital Bible application in Amharic
+- **Live:** [80-weahadu.vercel.app](https://80-weahadu.vercel.app/)
+
+---
+
+### 🔧 More Projects
+Check out my [GitHub repositories](https://github.com/nahomik?tab=repositories) for more projects!
 
 ---
 
