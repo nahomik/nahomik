@@ -14,6 +14,7 @@
 ## 🚀 About Me
 
 - 🔭 I'm currently working at **Commercial Bank of Ethiopia (CBE) as DevOps Engineer**
+- 💼 **Available for Freelance** - Full-Stack Development, DevOps Consulting, Cloud Architecture
 - 🌱 I'm currently learning **modern frameworks, cloud technologies, and DevOps best practices**
 - 👯 I'm looking to collaborate on **software development and DevOps projects**
 - 💬 Ask me about **JavaScript (ES6), React.js, Node.js, Express.js, REST APIs, SQL/PostgreSQL, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform**
@@ -108,6 +109,58 @@
 
 ---
 
+## 💼 Freelance Services
+
+I'm available for freelance work! Here's what I can help you with:
+
+### 🌟 **Full-Stack Development**
+- Modern web applications with React, Next.js, Vue.js
+- RESTful APIs and backend services with Node.js, Express
+- Database design and optimization (PostgreSQL, MongoDB, MySQL)
+- Real-time applications with WebSockets
+
+### ☁️ **DevOps & Cloud Solutions**
+- CI/CD pipeline setup (GitHub Actions, Jenkins, GitLab CI)
+- Docker containerization and Kubernetes orchestration
+- Infrastructure as Code (Terraform, Ansible)
+- Cloud deployment (AWS, Azure, GCP)
+- Monitoring and logging (Grafana, Prometheus)
+
+### 🔧 **Technical Consulting**
+- System architecture design
+- Performance optimization
+- Code reviews and best practices
+- DevOps transformation strategy
+
+### 📞 **Let's Work Together!**
+<p align="center">
+  <a href="mailto:nahomendalkachew2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-00ADB5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/nahomendalkachew-897899234">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://nahomendalkachew.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Featured Projects
+
+### 📚 [Ethiopian Book Swap Platform](https://github.com/nahomik/Books_Swap_Platform)
+**"ማንበብ ሙሉ ሰው ያደርጋል" (Reading Makes a Complete Person)**
+- Full-stack book exchange platform with bilingual support (Amharic/English)
+- **Tech Stack:** React 18, Vite, Node.js, Express
+- Features: Real-time messaging, search/filter, user profiles, book reviews
+- Deployed with modern DevOps practices
+
+### 🚀 More Projects Coming Soon!
+Check out my [Portfolio](https://nahomendalkachew.netlify.app/) for more projects
+
+---
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -120,6 +173,28 @@
 ## 📄 Resume
 
 📥 [Download My CV](https://nahomendalkachew.netlify.app/assets/Nahom_Endalkachew_cv.pdf)
+
+---
+
+## 💡 Additional Recommendations
+
+### 🎓 **Certifications to Consider**
+- AWS Certified Solutions Architect
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Certified: Terraform Associate
+
+### 📚 **Skills to Highlight**
+- Microservices Architecture
+- API Gateway & Load Balancing
+- Security Best Practices (OAuth, JWT)
+- Agile/Scrum Methodologies
+
+### 🌍 **Freelance Platforms**
+Consider joining:
+- [Upwork](https://www.upwork.com)
+- [Toptal](https://www.toptal.com)
+- [Fiverr](https://www.fiverr.com)
+- [LinkedIn ProFinder](https://www.linkedin.com/profinder)
 
 ---
 
