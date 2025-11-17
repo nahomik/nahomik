@@ -140,7 +140,7 @@ Focus: Cloud Infrastructure & Automation
 ---
 
 ## 💼 Freelance Services
-
+```yaml
 I'm available for freelance work! Here's what I can help you with:
 
 ### 🌟 **Full-Stack Development**
@@ -174,7 +174,7 @@ I'm available for freelance work! Here's what I can help you with:
     <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-
+```
 ---
 
 ## 🎯 Featured Projects
