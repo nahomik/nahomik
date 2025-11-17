@@ -161,7 +161,7 @@ I'm available for freelance work! Here's what I can help you with:
 - Performance optimization
 - Code reviews and best practices
 - DevOps transformation strategy
-
+```
 ### 📞 **Let's Work Together!**
 <p align="center">
   <a href="mailto:nahomendalkachew2002@gmail.com">
@@ -174,7 +174,7 @@ I'm available for freelance work! Here's what I can help you with:
     <img src="https://img.shields.io/badge/Portfolio-00ADB5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
-```
+
 ---
 
 ## 🎯 Featured Projects
