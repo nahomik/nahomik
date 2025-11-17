@@ -142,21 +142,24 @@ Focus: Cloud Infrastructure & Automation
 ## 💼 Freelance Services
 ```yaml
 I'm available for freelance work! Here's what I can help you with:
-
+```
 ### 🌟 **Full-Stack Development**
+```yaml
 - Modern web applications with React, Next.js, Vue.js
 - RESTful APIs and backend services with Node.js, Express
 - Database design and optimization (PostgreSQL, MongoDB, MySQL)
 - Real-time applications with WebSockets
-
+```
 ### ☁️ **DevOps & Cloud Solutions**
+```yaml
 - CI/CD pipeline setup (GitHub Actions, Jenkins, GitLab CI)
 - Docker containerization and Kubernetes orchestration
 - Infrastructure as Code (Terraform, Ansible)
 - Cloud deployment (AWS, Azure, GCP)
 - Monitoring and logging (Grafana, Prometheus)
-
+```
 ### 🔧 **Technical Consulting**
+```yaml
 - System architecture design
 - Performance optimization
 - Code reviews and best practices
