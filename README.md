@@ -36,11 +36,12 @@ Focus: Cloud Infrastructure & Automation
 <td width="50%" valign="top">
 
 ### 🛠️ Expertise
+```yaml
   development: "Full-Stack Web Apps",
   devops: "CI/CD & Automation",
   cloud: "AWS, Azure & Infrastructure",
   containers: "Docker & Kubernetes"
-
+```
 ### 🌱 Currently Exploring
 ![Cloud Native](https://img.shields.io/badge/Cloud_Native-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
